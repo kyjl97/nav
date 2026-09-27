@@ -1,0 +1,519 @@
+# title of website
+title: 得救之道导航
+
+# description of website
+description: kyjl97's navigation site
+
+# favicon of website
+favicon: "https://raw.githubusercontent.com/kyjl97/kyjl97/main/assets/logo.png"
+
+# your website url
+url: https://kyjl97.github.io/nav/
+
+# github profile url
+github: "https://github.com/kyjl97/nav"
+
+# footer message
+footer: © 2026 得救之道 · 从项目主页连接内容与工具
+
+# template(theme) of your site, available:
+# 1. webstack (http://webstack.cc)
+template: webstack
+
+# Google analytics
+google_analytics: ""
+
+webstack:
+  # 设置网站默认主题样式为浅色
+  style: light
+  search:
+    enabled: false
+    default: google
+    # 可选的搜索引擎
+    engines:
+      - google
+      - github
+      - weibo
+      - baidu
+      - bilibili
+      - zhihu
+
+content:
+  categories:
+    - name: 常用推荐
+      sites:
+        - name: 得救之道项目主页
+          description: 内容、作品与工具的统一入口
+          url: https://kyjl97.github.io/
+        - name: 得救之道个人主页
+          description: 长期个人入口
+          url: https://jieliu.me
+        - name: Firefly 博客
+          description: AI、软件、工作流和技术实践
+          url: https://kyjl97.github.io/Firefly/
+        - name: GitHub 开源主页
+          description: 浏览 kyjl97 的全部仓库
+          url: https://github.com/kyjl97
+        - name: 得救之道附件表
+          description: 往期视频附件
+          url: https://kyjl97.github.io/CloudFlare-ImgBed/main.html#/README.md
+        - name: 远程支持
+          description: 远程解决电脑问题
+          url: https://jieliu.me/
+        - name: chrome插件
+          description: chrome优质插件
+          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
+        - name: 自助站
+          description: 得救之道的数字工坊
+          url: https://kyjl97.github.io/Shopping
+        - name: 电视喵
+          description: TV应用导航站
+          url: https://kyjl97.github.io/Tvfree
+        - name: DigitalFrontier
+          description: 上网冲浪新姿势
+          url: https://kyjl97.github.io/Proxyfree
+        - name: 旁路由
+          description: 家庭旁路由网络拓扑
+          url: https://kyjl97.github.io/op/
+        - name: AI生图
+          description: 调用香蕉API生图网站
+          url: https://kyjl97.github.io/deepseek-imagegen
+        - name: 计算器
+          description: 一个在线计算器
+          url: https://kyjl97.github.io/Calculator
+        - name: 密码生成
+          description: 一个在线密码生成器
+          url: https://kyjl97.github.io/key/
+        - name: 源检查
+          description: 一个直播源检查工具
+          url: https://kyjl97.github.io/check
+    - name: 网站搭建
+      sites:
+        - name: Github
+          description: 全球最大的代码托管平台。
+          url: https://github.com/
+        - name: vercel
+          description: 网站部署云平台
+          url: https://vercel.com/
+        - name: Cloudflare
+          description: 域名托管/反向代理。
+          url: https://dash.cloudflare.com/
+        - name: 雨云
+          description: 高性价服务器域名
+          url: https://jieliu.me
+        - name: MobaXterm
+          description: ssl汉化版
+          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases
+        - name: ping
+          description: 测试网站的ping连接
+          url: https://ping.pe/
+        - name: 图床
+          description: 免费的图片托管平台
+          url: https://111666.best/
+        - name: 哪煮米
+          description: 全网域名销售价格对比
+          url: https://www.nazhumi.com/
+        - name: 1Panel
+          description: 开源Linux服务器运维管理面板
+          url: https://1panel.cn/
+        - name: bento
+          description: 个人数字名片制作网站
+          url: https://github.com/kyjl97
+        - name: link3
+          description: 个人导航页制作网站
+          url: https://github.com/kyjl97
+        - name: YouWare
+          description: html网页托管平台
+          url: https://youware.com/
+        - name: 谷歌联盟
+          description: 利用创收策略通过网站赚取收入
+          url: https://adsense.google.com/intl/zh-CN_cn/start/
+        - name: Semrush
+          description: 查流量、关键词、竞争对手、外链
+          url: https://zh.semrush.com/
+        - name: SimilarWeb
+          description: 查询网站流量、关键词流量、外链情况
+          url: https://www.similarweb.com/zh/
+        - name: Google Trends
+          description: 谷歌引擎关键词指数
+          url: https://trends.google.com.tw/trends?geo=TW&hl=zh-CN
+    - name: 人工智能
+      sites:
+        - name: ChatGPT
+          description: 写作辅助工具
+          url: https://chat.openai.com/
+        - name: Gemini
+          description: Gemini2.5Pro
+          url: https://gemini.google.com/
+        - name: Grok
+          description: 马斯克的AI工具
+          url: https://grok.com/
+        - name: perplexity
+          description: AI搜索引擎
+          url: https://www.perplexity.ai/
+        - name: Cherry-studio
+          description: AI客户端
+          url: https://www.cherry-ai.com/
+        - name: 仙宫云
+          description: AI云服务器租赁
+          url: https://www.xiangongyun.com/register/TLJSYM
+        - name: 提示词优化
+          description: 提示词优化器
+          url: https://prompt.always200.com/
+        - name: 提示词合集
+          description: 优质提示词合集
+          url: https://www.prompterhub.cn/best-practices
+        - name: Cursor
+          description: AI编程软件
+          url: https://cursor.com/
+        - name: Trea国际版
+          description: AI编程软件
+          url: https://jieliu.me/article/details/152725934?spm=1001.2014.3001.5502
+        - name: VSCode
+          description: 代码编辑器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH
+        - name: HBuilder
+          description: 代理编辑器
+          url: https://www.dcloud.io/hbuilderx.html
+        - name: Windsurf
+          description: IDE编程助手
+          url: https://windsurf.com/
+        - name: Claude Code
+          description: Anthropic推出的AI编程助手
+          url: https://claude.com/product/claude-code
+        - name: Codex
+          description: 由 OpenAI推出的AI编程工具
+          url: https://openai.com/zh-Hans-CN/codex/
+        - name: Qoder
+          description: 阿里巴巴推出的AI编程平台
+          url: https://qoder.com/
+        - name: Augment
+          description: VSCode中的AI编程插件
+          url: https://www.augmentcode.com/
+        - name: Antigravity
+          description: 谷歌推出的CLI编码平台
+          url: https://antigravity.google/
+        - name: iFlow
+          description: 心流AI推出的终端编程工具
+          url: https://cli.iflow.cn/
+        - name: Warp AI
+          description: 集成于终端环境的AI编程工具
+          url: https://warp.dev/
+    - name: 下载工具
+      sites:
+        - name: IDM
+          description: 最大支持32线程
+          url: https://www.internetdownloadmanager.com/
+        - name: YTSage
+          description: 采用yt-dlp架构
+          url: https://github.com/oop7/YTSage/releases
+        - name: 视频号下载
+          description: 视频号下载软件
+          url: https://github.com/ltaoo/wx_channels_download/releases
+        - name: openlist
+          description: 网盘挂载工具
+          url: https://github.com/OpenListTeam/OpenList
+        - name: B站下载
+          description: chrome插件
+          url: https://chromewebstore.google.com/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/djinnjdnedmcilpnboifdhfgbbhgieee
+        - name: 小红书下载
+          description: chrome插件
+          url: https://chromewebstore.google.com/detail/dhjaibcmgocbpegmejfphjhhpaphmkpp
+        - name: 123
+          description: 一个123增强脚本
+          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81
+        - name: 蓝奏云
+          description: 一个蓝奏云增强脚本
+          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
+        - name: 4275
+          description: 极速云文件中转站
+          url: https://4275.com/
+        - name: 网盘直链解析
+          description: 蓝奏云/123云盘生成
+          url: https://lz.qaiu.top/
+        - name: github加速
+          description: GitHub下载加速
+          url: https://yishijie.gitlab.io/ziyuan/
+        - name: 任推帮
+          description: 网盘拉新赚收益
+          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546
+    - name: 系统相关
+      sites:
+        - name: Massgrave
+          description: Win镜像下载
+          url: https://massgrave.dev/windows_ltsc_links
+        - name: itellyou
+          description: Win镜像下载
+          url: https://msdn.itellyou.cn/?ang=2h-cn
+        - name: uupdump
+          description: Win镜像下载
+          url: https://uupdump.net/
+        - name: Cmdpe
+          description: Win镜像下载
+          url:  https://www.cmdpe.com/post/246.html
+        - name: Ventoy
+          description: U启工具
+          url: https://www.ventoy.net/cn/download.html
+        - name: Rufus
+          description: U启工具
+          url: https://rufus.ie/zh/
+        - name: WePE
+          description: U启工具
+          url: https://www.wepe.com.cn/download.html
+        - name: balena
+          description: U启工具
+          url: https://etcher.balena.io/
+        - name: HiBit
+          description: 软件卸载
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iLHZK371f3kf
+        - name: Winrar
+          description: 解压缩软件
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iG5A6371g9cj
+        - name: SoftCnKiller
+          description: 流氓软件专项清理
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ikf5j2ancdgh
+        - name: W11ClassicMenu
+          description: Win11恢复传统右键菜单
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iNZOo320ywyb
+        - name: DiskGenius
+          description: 硬盘分区管理工具
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iboYh2znqo3e
+        - name: DirectX
+          description: DLL修复
+          url: https://pan.xunlei.com/s/VOa34ENGBCynPo4VLrHIxu5rA1?pwd=6j9w#
+        - name: Defender
+          description: 彻底禁用
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ieefU2anb7pe
+        - name: 驱动总裁
+          description: 驱动安装器
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ig3Rn3257ebi
+    - name: 效率工具
+      sites:
+        - name: PixPin
+          description: 截图工具
+          url: https://pixpin.cn/
+        - name: ShareX
+          description: 截图自动加背景
+          url: https://getsharex.com/
+        - name: Listary
+          description: 文件搜索工具
+          url: https://www.listary.net/
+        - name: LANDrop
+          description: 局域网传输
+          url: https://landrop.app/
+        - name: PicList
+          description: 图床工具
+          url: https://piclist.cn/
+        - name: 微信多开
+          description: 支持4.1.0.34
+          url: https://github.com/zhangqi222/SoEasy-WeiXinMulitLauncher/releases
+        - name: 微输入法
+          description: 常用语/同步功能
+          url: https://z.weixin.qq.com/
+        - name: iFlow
+          description: cmd终端AI助手
+          url: https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
+        - name: EasyCopy
+          description: 复制当前网页内容插件
+          url: https://chromewebstore.google.com/detail/easycopy/kconeemaffcgejhcegceinkhalmgdicf
+        - name: Scraper
+          description: 网页爬虫插件
+          url: https://chromewebstore.google.com/detail/easy-scraper-one-click-we/cljbfnedccphacfneigoegkiieckjndh
+        - name: GitHub汉化
+          description: 仅针对菜单栏
+          url: https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6
+        - name: 文章下载
+          description: 保存文章为mrkdown
+          url: https://greasyfork.org/zh-CN/scripts/472996-%E4%B8%8B%E8%BD%BDcsdn-%E7%AE%80%E4%B9%A6-%E6%8E%98%E9%87%91-%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F-%E8%84%9A%E6%9C%AC%E4%B9%8B%E5%AE%B6-51cto-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E6%9C%AC%E8%90%A5-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-b%E7%AB%99-%E6%80%9D%E5%90%A6-%E8%BD%BB%E8%AF%86-%E8%85%BE%E8%AE%AF%E4%BA%91-%E9%98%BF%E9%87%8C%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%AD%89%E6%96%87%E7%AB%A0%E4%BF%9D%E5%AD%98%E4%B8%BAword-markdown%E6%96%87%E4%BB%B6
+    - name: 影音娱乐
+      sites:
+        - name: VeloraTV
+          description: UI精美，播放高清
+          url: https://veloratv.ru/
+        - name: Flixer
+          description: 高清无广告
+          url: https://flixer.su/
+        - name: 低端电影
+          description: 欧美剧，页面感觉无光
+          url:  https://ddys.pro/
+        - name: 袋鼠影视
+          description: 欧美剧为主，页面干净
+          url:  https://dsdytv.com/
+        - name: my TV
+          description: 电视直播软件
+          url: https://github.com/lizongying/my-tv-0
+        - name: 网易爆米花
+          description: 网盘刮削神器播放器
+          url: https://bmh.163.com/
+        - name: Iptv-api
+          description: 自编译直播源
+          url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
+        - name: OBS
+          description: 录频直播工具
+          url: https://obsproject.com/
+        - name: AlgerMusicPlayer
+          description: 网易云第三方播放器
+          url: https://github.com/algerkong/AlgerMusicPlayer
+        - name: ZyPlayer
+          description: 电脑影视播放器
+          url: https://github.com/Hiram-Wong/ZyPlayer
+        - name: PotPlayer
+          description: 视频播放器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH
+        - name: VLC脚本
+          description: 乱码解决
+          url: https://github.com/kyjl97/vlt_zh
+    - name: 壁纸网站
+      sites:
+        - name: 遮风壁纸
+          description: 每天可下载5张
+          url: https://haowallpaper.com/
+        - name: 拾光壁纸
+          description: 还可以
+          url: https://netbian.timeline.ink/home
+        - name: 致美化
+          description: 不错
+          url: https://zhutix.com/wallpaper/
+        - name: 暖糖壁纸
+          description: 不经常用
+          url: https://www.nuantang.net/
+        - name: 极简壁纸
+          description: 很少用
+          url: https://bz.zzzmh.cn/index?time=5e4rrofz21
+        - name: alphacoders
+          description: 质量很高
+          url: https://alphacoders.com
+        - name: 4kwallpapers
+          description: 很多人用
+          url: https://4kwallpapers.com/
+        - name: wallspic
+          description: 手机壁纸
+          url: https://wallspic.com/cn
+    - name: 图片工具
+      sites:
+        - name: PS2025
+          description: 安装与设置
+          url: https://www.kdocs.cn/l/camYZ7UK6kgi
+        - name: 美图设计师
+          description: 封面制作
+          url: https://www.designkit.com
+        - name: 即梦AI
+          description: 字节文生图工具
+          url: https://jimeng.jianying.com/ai-tool/image/generate
+        - name: 鲜艺AI抠图
+          description: 抠图工具
+          url: https://kt.94xy.com/
+        - name: 拼图
+          description: 网页端
+          url: https://collagemaker.tools/photo/
+        - name: 截图美化
+          description: 效果不错
+          url: https://shots.so/
+        - name: 去水印
+          description: 无论水印多复杂
+          url: https://www.watermarkremover.io/zh
+        - name: pixabay
+          description: 图片素材
+          url: https://pixabay.com/images/search
+        - name: 二维码
+          description: 二维码生成
+          url: https://qrbtf.com/zh
+        - name: excalidraw
+          description: 白板
+          url: https://excalidraw.com/
+        - name: 字体下载
+          description: 无版权可商用
+          url: https://wangchujiang.com/free-font/
+        - name: 3D图标
+          description: AI生成
+          url: https://www.thiings.co/things
+    - name: 运营工具
+      sites:
+        - name: 热榜
+          description: 每日热点追踪
+          url: https://newsnow.busiyi.world/
+        - name: mdnice
+          description: mrkdown排版
+          url: https://editor.mdnice.com/
+        - name: openai
+          description: 文字转语音
+          url: https://www.openai.fm/
+        - name: get笔记
+          description: AI笔记
+          url: https://www.biji.com/note
+        - name: B站
+          description: 科技数码区
+          url: https://jieliu.me
+        - name: YouTube
+          description: 海外视频社区
+          url: https://github.com/kyjl97
+        - name: 抖音
+          description: 字节公司产品
+          url: https://www.douyin.com/user/self?from_tab_name=main
+        - name: 小红书
+          description: 兴趣社区
+          url: https://jieliu.me
+    - name: 网络相关
+      sites:
+        - name: Hiddify
+          description: 代理工具
+          url: https://github.com/hiddify/hiddify-app/releases/tag/v2.0.5
+        - name: 节点
+          description: 科学上网节点
+          url: https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb
+        - name: openwrt
+          description: openwrt 软路由固件
+          url: https://github.com/kiddin9/Kwrt
+        - name: Sms
+          description: 接码平台
+          url:  https://sms-activate.guru/?ref=12307132
+        - name: steampp
+          description: GitHub访问加速
+          url: https://steampp.net/
+        - name: 2FA
+          description: 2FA工具
+          url: https://2fa.run/
+        - name: github加速
+          description: GitHub下载加速
+          url: https://yishijie.gitlab.io/ziyuan/
+        - name: Xget
+          description: git clone加速
+          url:  https://xuc.xi-xu.me/
+    - name: 苹果相关
+      sites:
+        - name: hubweb
+          description: 苹果系列产品参数
+          url: https://hubweb.cn/
+        - name: 快捷指令
+          description: 少数派旗下站点
+          url: https://sspai.com/page/playbook/zh-CN
+        - name: gofans
+          description: 限免APP
+          url: https://gofans.cn/
+        - name: IMEI查询
+          description: 苹果序列号查询
+          url:  https://www.guofenjianding.com/index
+        - name: iCloud
+          description: 苹果云储存
+          url: https://www.icloud.com.cn/
+        - name: 尝鲜派
+          description: 最新版本体验
+          url:  https://betahub.cn/
+        - name: Sideloadly
+          description: 自签IPA 的工具
+          url: https://sideloadly.io/
+        - name: 爱思签名教程
+          description: 有效期7天
+          url: https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd
+        - name: 爱思助手
+          description: IPhone刷机工具
+          url: https://www.i4.cn/
+        - name: 巨魔商店
+          description: 巨魔助手安装
+          url: https://www.joia.cn/trollstore/install/
+        - name: Trollstore
+          description: ZH15.2-16.7/17.0
+          url: https://github.com/JJTech0130/TrollRestore/releases
+        - name: IPA安装包
+          description: 巨魔永久签名
+          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86
