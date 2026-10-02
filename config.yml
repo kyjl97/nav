@@ -458,15 +458,15 @@ content:
         - name: Hiddify
           description: 代理工具
           url: https://github.com/hiddify/hiddify-app/releases/tag/v2.0.5
-        - name: 节点
-          description: 科学上网节点
-          url: https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb
+        - name: 飞鸟云
+          description: 网络线路备选，先核对套餐与稳定性
+          url: https://feiniaoyun.xyz/#/register?code=HDbs3siE
         - name: openwrt
           description: openwrt 软路由固件
           url: https://github.com/kiddin9/Kwrt
-        - name: Sms
-          description: 接码平台
-          url:  https://sms-activate.guru/?ref=12307132
+        - name: HeroSMS
+          description: 临时短信验证，仅适合测试用途
+          url:  https://hero-sms.com/cn?ref=1643764
         - name: steampp
           description: GitHub访问加速
           url: https://steampp.net/
